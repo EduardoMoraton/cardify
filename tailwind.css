@@ -1,0 +1,14 @@
+@layer utilities {
+    .bg-dynamic {
+      --bg-color: #000000; /* Default color */
+      background-color: var(--bg-color);
+    }
+    .bg-base {
+        --bg-base: #000000; /* Default color */
+        background-color: var(--bg-color);
+    }
+    .bg-base {
+        --bg-accent: #000000; /* Default color */
+        background-color: var(--bg-color);
+    }
+  }

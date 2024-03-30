@@ -1,0 +1,22 @@
+{
+    "title":"DEMO",
+    "logoSrc":"../../public/logo.svg",
+    "head":"Demo demo demo dmeo",
+    "subHead":"DemoEmpresa",
+    "baseColor":"#A3A380",
+    "accentColor":"#BF4342",
+    "bgColor":"#30292F",
+    "links":[
+        {
+            "imgSrc":"../../public/logo.svg",
+            "name":"Gmail",
+            "link":"mailto:aaa@aa.com"
+        },
+        {
+            "imgSrc":"../../public/logo.svg",
+            "name":"Gmail",
+            "link":"mailto:aaa@aa.com"
+        }
+
+    ]
+}
